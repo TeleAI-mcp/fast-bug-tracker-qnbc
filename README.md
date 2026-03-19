@@ -1,2 +1,3 @@
-# fast-bug-tracker-qnbc
-Automated issue comment bot repository
+# Fast Bug Tracker Qnbc
+
+Automated issue comment bot repository.
